@@ -4,5 +4,4 @@ export class TodoList {
     this.title=title;
     this.tasks = [];
   }
-
 }
